@@ -19,6 +19,8 @@ Aegis Sandbox is a secure remote command-line interface designed for AI agents. 
 
 ## Introduction
 
+<img src="logo.jpg" width="50%" alt="Aegis Sandbox Logo">
+
 The rapid advancement of AI agents, particularly from OpenAI, has inspired this project. Aegis Sandbox provides a way for AI agents to interact with your system's command line securely. You have two options for using the system:
 
 1. **Create Your Own Agent:** Hardcode a custom identifier (a 14-character base64 string) within your agent for authentication.
